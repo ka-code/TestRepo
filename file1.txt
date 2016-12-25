@@ -1,0 +1,2 @@
+This is the first line, of the first file.
+And this is the second like of that file. 
